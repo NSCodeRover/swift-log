@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'SwiftLogJM'
-  s.version      = '1.6.3'
+  s.version      = '1.6.4'
   s.summary      = 'A Logging API for Swift (CocoaPods support fork, JM version)'
   s.homepage     = 'https://github.com/NSCodeRover/swift-log'
   s.license      = { :type => 'Apache-2.0', :file => 'LICENSE.txt' }
